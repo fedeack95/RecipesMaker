@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1d83120-c3c6-409a-9b5c-df2d0f08db4b" name="Default Changelist" comment="" />
+    <list default="true" id="b1d83120-c3c6-409a-9b5c-df2d0f08db4b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/menu.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/menu.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="RecipesMaker" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -13,6 +20,9 @@
         <option value="Kotlin File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1UlQWkZiEF5R0BZxSaGxTyWbE4h" />
   <component name="ProjectViewState">
@@ -22,6 +32,28 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../helloWord" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MenuKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="RecipesMaker" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MenuKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MenuKt" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -49,9 +81,34 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1575928795135">
-      <screen x="67" y="27" width="1299" height="741" />
+    <state x="2005" y="185" width="424" height="484" key="FileChooserDialogImpl" timestamp="1575931727148">
+      <screen x="1366" y="0" width="1920" height="1080" />
     </state>
+    <state x="2005" y="185" key="FileChooserDialogImpl/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1575931727148" />
     <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1575928795135" />
+    <state width="1874" height="54" key="GridCell.Tab.0.bottom" timestamp="1575934639766">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="54" key="GridCell.Tab.0.bottom/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1575934639766" />
+    <state width="1874" height="54" key="GridCell.Tab.0.center" timestamp="1575934639766">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="54" key="GridCell.Tab.0.center/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1575934639766" />
+    <state width="1874" height="54" key="GridCell.Tab.0.left" timestamp="1575934639766">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="54" key="GridCell.Tab.0.left/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1575934639766" />
+    <state width="1874" height="54" key="GridCell.Tab.0.right" timestamp="1575934639766">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="54" key="GridCell.Tab.0.right/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1575934639766" />
+    <state x="1990" y="246" key="run.anything.popup" timestamp="1575931768792">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1990" y="246" key="run.anything.popup/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1575931768792" />
+    <state x="1989" y="237" key="search.everywhere.popup" timestamp="1575930621529">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1989" y="237" key="search.everywhere.popup/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1575930621529" />
   </component>
 </project>
